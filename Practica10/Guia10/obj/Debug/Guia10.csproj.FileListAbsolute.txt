@@ -1,0 +1,21 @@
+C:\Users\PARKER(L)\Documents\Practicas PE 2019\GUIA 10\Guia10\Guia10\bin\Debug\Guia10.exe.config
+C:\Users\PARKER(L)\Documents\Practicas PE 2019\GUIA 10\Guia10\Guia10\bin\Debug\Guia10.exe
+C:\Users\PARKER(L)\Documents\Practicas PE 2019\GUIA 10\Guia10\Guia10\bin\Debug\Guia10.pdb
+C:\Users\PARKER(L)\Documents\Practicas PE 2019\GUIA 10\Guia10\Guia10\obj\Debug\Guia10.csprojAssemblyReference.cache
+C:\Users\PARKER(L)\Documents\Practicas PE 2019\GUIA 10\Guia10\Guia10\obj\Debug\Guia10.csproj.CoreCompileInputs.cache
+C:\Users\PARKER(L)\Documents\Practicas PE 2019\GUIA 10\Guia10\Guia10\obj\Debug\Guia10.exe
+C:\Users\PARKER(L)\Documents\Practicas PE 2019\GUIA 10\Guia10\Guia10\obj\Debug\Guia10.pdb
+C:\Users\Usuario\Desktop\Guia 10-20191106T211143Z-001\Guia 10\Guia10\Guia10\bin\Debug\Guia10.exe.config
+C:\Users\Usuario\Desktop\Guia 10-20191106T211143Z-001\Guia 10\Guia10\Guia10\bin\Debug\Guia10.exe
+C:\Users\Usuario\Desktop\Guia 10-20191106T211143Z-001\Guia 10\Guia10\Guia10\bin\Debug\Guia10.pdb
+C:\Users\Usuario\Desktop\Guia 10-20191106T211143Z-001\Guia 10\Guia10\Guia10\obj\Debug\Guia10.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Guia 10-20191106T211143Z-001\Guia 10\Guia10\Guia10\obj\Debug\Guia10.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Guia 10-20191106T211143Z-001\Guia 10\Guia10\Guia10\obj\Debug\Guia10.exe
+C:\Users\Usuario\Desktop\Guia 10-20191106T211143Z-001\Guia 10\Guia10\Guia10\obj\Debug\Guia10.pdb
+C:\Users\Usuario\Desktop\Guia 10\Guia10\Guia10\bin\Debug\Guia10.exe.config
+C:\Users\Usuario\Desktop\Guia 10\Guia10\Guia10\bin\Debug\Guia10.exe
+C:\Users\Usuario\Desktop\Guia 10\Guia10\Guia10\bin\Debug\Guia10.pdb
+C:\Users\Usuario\Desktop\Guia 10\Guia10\Guia10\obj\Debug\Guia10.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Guia 10\Guia10\Guia10\obj\Debug\Guia10.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Guia 10\Guia10\Guia10\obj\Debug\Guia10.exe
+C:\Users\Usuario\Desktop\Guia 10\Guia10\Guia10\obj\Debug\Guia10.pdb
